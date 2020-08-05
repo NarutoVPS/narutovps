@@ -1,4 +1,4 @@
-### Hi there, I'm [Ved Prakash] [website] 👋
+### Hi there, I'm [Ved Prakash][website] 👋
 
 ## I'm a CS Student
 - 🌱 I’m currently learning Competitive Programming!
