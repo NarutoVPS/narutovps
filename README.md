@@ -14,7 +14,7 @@
 <br />
 <br />
 
-![](https://tenor.com/view/hello-sexy-hi-hello-mr-bean-gif-13830351)
+![](hi.gif)
 
 [website]: https://www.narutovps.tech/
 [twitter]: https://twitter.com/NarutoVPS
