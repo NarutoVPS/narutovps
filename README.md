@@ -17,4 +17,4 @@
 [website]: https://www.narutovps.tech/
 [twitter]: https://twitter.com/NarutoVPS
 [instagram]: https://instagram.com/NarutoVPS
-[linkedin]: https://linkedin.com/NarutoVPS
+[linkedin]: https://www.linkedin.com/in/narutovps/
