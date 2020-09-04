@@ -5,11 +5,10 @@
 </div>
 
 <br />
-<br />
 
 ## I'm a CS Student
-- 🌱 I’m currently learning Competitive Programming!
-- ⚡ Fun fact: I love to watch anime.
+- 🌱 I’m currently learning SQL.
+- ⚡ Fun fact: I love anime.
 
 ### Languages and Tools:
 
