@@ -1,4 +1,4 @@
-### Hi there, I'm [Ved Prakash][website] 👋
+# Hi there 👋
 
 <div align="center">
     <img alt="GIF" align="center" src="https://github.com/NarutoVPS/NarutoVPS/blob/master/assets/naruto.gif">
