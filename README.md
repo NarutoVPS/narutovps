@@ -1,5 +1,12 @@
 ### Hi there, I'm [Ved Prakash][website] 👋
 
+<div align="center">
+    <img alt="GIF" align="center" src="https://github.com/NarutoVPS/NarutoVPS/blob/master/assets/naruto.gif">
+</div>
+
+<br />
+<br />
+
 ## I'm a CS Student
 - 🌱 I’m currently learning Competitive Programming!
 - ⚡ Fun fact: I love to watch anime.
