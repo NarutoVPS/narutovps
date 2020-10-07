@@ -6,7 +6,7 @@
 
 <br />
 
-## I'm a CS Student
+## Just a CS Student passionate about Programming, Machine Learning & Web Development.
 - 🌱 I’m currently learning SQL.
 - ⚡ Fun fact: I love anime.
 
